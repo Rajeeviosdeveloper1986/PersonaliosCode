@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E1C7ECA-9FA0-4E2A-A902-168072A9D093"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "071B361C-71F0-4629-BB23-D8E3CD122120"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoMenu/KGDrawerWebViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "toggleLeftDrawer(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12C16223-6583-4F25-A58F-BE4DF3397ED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoMenu/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "toggleLeftDrawer(sender:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12C16223-6583-4F25-A58F-BE4DF3397ED5 - 4d555eae61f733e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoMenu.AppDelegate.toggleLeftDrawer(sender: Swift.AnyObject, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "DemoMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeevsingh/Desktop/DemoMenu/DemoMenu/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "12C16223-6583-4F25-A58F-BE4DF3397ED5 - d5fcd26a30e56ab8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in DemoMenu.AppDelegate.toggleLeftDrawer(sender: Swift.AnyObject, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "DemoMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeevsingh/Desktop/DemoMenu/DemoMenu/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,16 @@
+PODS:
+  - KGFloatingDrawer (0.2.0)
+
+DEPENDENCIES:
+  - KGFloatingDrawer
+
+SPEC REPOS:
+  trunk:
+    - KGFloatingDrawer
+
+SPEC CHECKSUMS:
+  KGFloatingDrawer: b0c2810954bfb61f4d4dd01b8891d5c23933e368
+
+PODFILE CHECKSUM: f4a8447b14b8ef4ebcc9b676bfa264215846f9b8
+
+COCOAPODS: 1.11.3
